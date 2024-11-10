@@ -10,6 +10,7 @@
     box-sizing: border-box;
     font-style: inherit;
     font-family: "poppins", sans-serif;
+    width: fit-content;
 }
 
 html{
